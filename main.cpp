@@ -1,7 +1,9 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    std::cout << "hello, testing git rn\n";
+
+// as of TUE 26 AUG 25, git is working
+// project uses cpp 26
+
     return 0;
 }
