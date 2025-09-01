@@ -6,7 +6,7 @@ It uses Vulkan for performance and imgui and its addons for extra user features.
 
 ## Curent state of project:
 
-State is: **very early progress (day 1)**
+State is: **very early progress**
 
 ### Note:
 
